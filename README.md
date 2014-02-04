@@ -25,6 +25,12 @@ None,       Down,   Down,   3
 
 Afterward, we add in /usr/bin/imwheel to the startup program list
 
+An important addon to add to Chromium is the addon that permits scrolling with holding the middle mouse button(scroll wheel). It can be downloaded at
+
+
+
+https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan
+
 Back Buttons
 =============
 I commonly use backspace as a back button. To add it to nautils, edit
@@ -43,7 +49,7 @@ To add it in chromium, we install
 
 https://chrome.google.com/webstore/detail/backspace-as-backforward/aeffggjddcchloadflonilaahpclmbnm
 
-To add it in firefox, which I often switch to, we open
+To add it in firefox, which I often switch to, we open
 
 about:config
 
